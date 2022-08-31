@@ -1,0 +1,104 @@
+!!!!!!!!!!!!!!!!!!!!Obavezno za rad aplikacije!!!!!!!!!!!!!!!!!!!
+===================================================================================
+
+INSERT INTO Karoserije (Naziv, Opis)
+VALUES ('Limuzina (sedan)', 'Ima četvora vrata. Prtljažnik je vizuelno jasno odvojen od ostatka automobila, ali prtljažni prostor ne mora obavezno da bude odvojen od putničkog čvrstom pregradom. Kod nekih je moguće oboriti naslon zadnjih sedišta kao kod hečbeka ili karavana i tako znatno povećati prtljažni prostor.
+
+');
+
+INSERT INTO Karoserije (Naziv, Opis)
+VALUES ('Hečbek', 'Ima zasečen zadnji kraj i troja ili petora vrata (računa se i poklopac prtljažnika koji se podiže zajedno sa zadnjim staklom). Prtljažnik nije vizuelno izdvojen od ostatka karoserije, niti odvojen od putničkog dela čvrstom pregradom. Tipični primeri su VW Golf, Opel Corsa ili Dacia Sandero.');
+
+INSERT INTO Karoserije (Naziv, Opis)
+VALUES ('Karavan', 'Kod njega je veličina prtljažnog prostora na prvom mestu, mada se kod savremenih automobila prave razni kompromisi u korist atraktivnosti (npr. oštro spuštanje krova ka zadnjem delu). Nekad je duži od osnovne verzije (hečbeka ili limuzine), nekad nije. U nazivu obično ima dodatnu oznaku kao što je: Avant, Sportwagon, Wagon, Touring, ST (Station Wagon), Tourer, Variant... ');
+
+INSERT INTO Karoserije (Naziv, Opis)
+VALUES ('Kupe','Ima dvoja vrata i naglašeno sportsku pojavu. Pravila po pitanju prtljažnika su ista kao kod limuzine – praktično ih nema. Neki proizvođači ponekad svoje modele nazivaju kupeima, iako je očigledno reč o hečbeku sa troja vrata (npr.Citroen Xsara Coupe). Klasični primeri su Opel Calibra, Audi TT, Toyota Celica, Fiat Coupe, Honda Integra, Subaru BRZ...');
+
+INSERT INTO Karoserije (Naziv, Opis)
+VALUES ('Kabriolet/roadster','Svaki automobil kojem se skida krov, ručno/automatski, platneni/čvrsti, bez obzira da li se sklapa u prtljažnik ili mora da se ostavi u garaži. Ovde svrstavamo i targa vozila, koja možemo da nazovemo polu-kabrioletima. Kod njih je zadnje staklo fiksirano, a skida se samo gornji deo krova.');
+
+INSERT INTO Karoserije (Naziv, Opis)
+VALUES ('Monovolumen (miniven)','Izgleda kao povišeni karavan, sa skraćenim motornim prostorom i visokom i uspravnom pozicijom sedenja, kako bi se maksimalno iskoristila dužina i širina karoserije. Neki modeli imaju i treći red sedišta. Primeri: Chrysler Voyager, VW Sharan i Touran, Renault Scenic, Opel Zafira, Citroen Xsara Picasso, Ford S-MAX, Mazda5…');
+
+INSERT INTO Karoserije (Naziv, Opis)
+VALUES ('Džip/SUV','Ovde svrstavamo sva vozila koja ostavljaju utisak da se dobro snalaze van asfalta, bez obzira da li je reč o rasnom terencu (Land Rover Discovery), urbanom šminkeru bez pogona na svim točkovima (Nissan Juke) ili klasičnom pripadniku SUV porodice (BMW X5).');
+
+INSERT INTO Karoserije (Naziv, Opis)
+VALUES ('Pickup','Praktično terenac (SUV/džip) sa otvorenim tovarnim prostorom. Robustan i izdržljiv, pošto se od njega očekuje da nosi ozbiljan teret, vuče tešku prikolicu i probija se kroz bespuća. Postoje verzije sa jednim ili dva reda sedišta i pogonom na svim ili samo zadnjim točkovima. ');
+
+==================================================================================================================================================================================================================
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!Opciono! Da bi se na stranici pokazalo vise entiteta!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+INSERT INTO Placevi (Naziv, Telefon, Adresa, Kapacitet)
+VALUES ('Markovic', 0654851987, 'Jovana Jovanovica 24', 14);
+
+INSERT INTO Placevi (Naziv, Telefon, Adresa, Kapacitet)
+VALUES ('Trajkovic', 414211, 'Cara Dusana 12', 20);
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+INSERT INTO Prodavci (BrLicneKarte, Ime, Prezime, Telefon)
+VALUES (123456789, 'Jovan', 'Petrovic', 635124897);
+
+INSERT INTO Prodavci (BrLicneKarte, Ime, Prezime, Telefon)
+VALUES (123456788, 'Marko', 'Markovic', 651236584);
+
+INSERT INTO Prodavci (BrLicneKarte, Ime, Prezime, Telefon)
+VALUES (123456787, 'Darko', 'Stankovic', 635648412);
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Audi', 'A3', 'BG123JX', 17995, 2017,170000,1598,110,1,1,2);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Skoda', 'Octavia', 'BG123SO', 4800, 2007,123000,1896,105,1,2,3);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Ford', 'Focus', 'BG123FF', 6970, 2014,146100,998,125,1,2,2);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('BMW', '320', 'BG231RE', 2650, 2001,260000,1998,150,1,2,3);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Audi', 'A6 ', 'NI231TR', 6490, 2008,227000,1968,140,1,2,2);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('BMW', '320', 'KG231RT', 6390, 2006,200000,1995,122,1,2,1);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Seat', 'Ibiza', 'KR240OR', 2999, 2004,185983,1198,64,2,2,3);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Lancia', 'Musa', 'NS125LI', 2999, 2009,170000,1248,90,2,1,2);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Seat ', 'Altea ', 'NI548TK', 2999, 2005,200000,1896,150,2,2,1);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Ford  ', 'Focus ', 'NI523KL', 8999, 2017,113737,1498,95,2,2,3);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Smart  ', 'ForTwo ', 'NS230LO', 8599, 2015,90000,998,71,2,1,1);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Opel', 'Insignia', 'NE420OR', 6880, 2012,147507,1990,160,3,1,3);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Volkswagen', 'Touran', 'NS040LR', 6299, 2009,211452,1898,105,6,2,2);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Opel', 'Astra', 'NS041LR', 9999, 2017,129568,1598,110,2,1,1);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('Renault', 'Kadjar', 'NI520LR', 15400, 2016,94700,1500,110,7,2,3);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('BMW', 'X5', 'NS520KR', 36990, 2011,152000,2993,258,7,1,2);
+
+INSERT INTO Vozilo (Marka, Model, RegistarskaTablica, Cena, GodinaProizvodnje, Kilometraza, ZapreminaMotora,SnagaMotora, KaroserijaID, NazivPlacaID,VlasnikID)
+VALUES ('BMW', 'X1', 'VR520OK', 42420, 2021,0,1995,150,7,2,1);

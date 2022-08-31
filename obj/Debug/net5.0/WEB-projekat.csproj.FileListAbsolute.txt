@@ -1,0 +1,126 @@
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\appsettings.json
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\WEB-projekat.exe
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\WEB-projekat.deps.json
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\WEB-projekat.runtimeconfig.json
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\WEB-projekat.runtimeconfig.dev.json
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\WEB-projekat.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\ref\WEB-projekat.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\WEB-projekat.pdb
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.csproj.AssemblyReference.cache
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.AssemblyInfoInputs.cache
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.AssemblyInfo.cs
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\staticwebassets\WEB-projekat.StaticWebAssets.Manifest.cache
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\staticwebassets\WEB-projekat.StaticWebAssets.xml
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\scopedcss\bundle\WEB-projekat.styles.css
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.RazorTargetAssemblyInfo.cache
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.csproj.CopyComplete
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\ref\WEB-projekat.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.pdb
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\obj\Debug\net5.0\WEB-projekat.genruntimeconfig.cache
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Humanizer.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\PCC\Desktop\Fah\WP\WEB-projekat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\appsettings.json
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\WEB-projekat.StaticWebAssets.xml
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\WEB-projekat.exe
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\WEB-projekat.deps.json
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\WEB-projekat.runtimeconfig.json
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\WEB-projekat.runtimeconfig.dev.json
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\WEB-projekat.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\ref\WEB-projekat.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\WEB-projekat.pdb
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Humanizer.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.csproj.AssemblyReference.cache
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.AssemblyInfoInputs.cache
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.AssemblyInfo.cs
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.csproj.CoreCompileInputs.cache
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\scopedcss\bundle\WEB-projekat.styles.css
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\staticwebassets\WEB-projekat.StaticWebAssets.Manifest.cache
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.RazorTargetAssemblyInfo.cache
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.csproj.CopyComplete
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\ref\WEB-projekat.dll
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.pdb
+C:\Users\PACARD BELL\Desktop\WPProjekat-rentacar\obj\Debug\net5.0\WEB-projekat.genruntimeconfig.cache

@@ -1,0 +1,62 @@
+.PrikazVozila{
+    border: 1px solid black;
+    text-align: left;
+    background-color: cornflowerblue;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    width: 70%;
+    flex-grow: 3;
+}
+.auto{
+    border: 1px solid black;
+    padding: 5px;
+}
+.Forma{
+    background-color: darkred;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    padding: 10px;
+    flex-grow: 1 0 193px;
+    border: 1px solid black;
+}
+.GlavniKonteiner{
+    background-color: darkgreen;
+    display: flex;
+}
+.red{
+    padding: 5px;
+}
+.Opis{
+    background-color: coral;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.GlavnijiKonteiner{
+    display: flex;
+    flex-direction: column;
+    background-color: darkgoldenrod;
+}
+.placInfo{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    border-width: 2px;
+    flex-wrap: wrap;
+    font-style: oblique;
+    flex-grow: 1 0 193px;
+}
+.placIme{
+    font-weight: bolder;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nevidljivo{
+    visibility: hidden;
+
+}
+
+@media only screen and (max-width:1080px) {
+    body {
+     zoom:1.5;
+    }
+  }
